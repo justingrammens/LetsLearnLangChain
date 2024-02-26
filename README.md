@@ -1,10 +1,8 @@
-# CODEFREEZE-2024
+# LETS LEARN LANGCHAIN
 
-Slides and Examples From My [CODEFREEZE 2024 PRESENTATION](https://cse.umn.edu/umsec/events/code-freeze-2024)
+LangChain can be used to build a wide variety of AI applications, including chatbots, personal assistants, creative content generators, data analysis tools, and task automation tools. If you haven't used it before, get ready to revolutionize your AI toolbox! In this first of a series I plan to offer, we'll dive into the magic of creating sophisticated conversational agents by exploring the main components of LangChain: Functions, Expressions Language, Tagging, Extraction, and Routing. Using these components the output of this talk will culminate in not only the creation of a conversational agent but an agent in which you will fully understand the interworkings and come away with the knowledge of how LangChain works and why it should be a critical piece of your future AI projects.
 
-LangChain: The AI Chain to Rule all the Rules
-
-LangChain can be used to build a wide variety of AI applications, including chatbots, personal assistants, creative content generators, data analysis tools, and task automation tools. If you haven't used it before, get ready to revolutionize your AI toolbox! In this session, we'll dive into the magic of creating sophisticated conversational agents by exploring the main components of LangChain: Functions, Expressions Language, Tagging, Extraction, and Routing. Using these components the output of this talk will culminate in not only the creation of a conversational agent but an agent in which you will fully understand the interworkings and come away with the knowledge of how LangChain works and why it should be a critical piece of your future AI projects.
+This is meant to be an overview of the LangChain ecosystem with examples using various components, however, in future sessions we'll go deeper into the power and flexibility of LangChain and why as a technical leader you should bring it into your organization.
 
 About the Speaker
 Hi! I’m [Justin Grammens](https://justingrammens.com). I’m a lifelong learner, passionate about Software Development, Artificial Intelligence, and driven by giving back to the community through service and education. 
