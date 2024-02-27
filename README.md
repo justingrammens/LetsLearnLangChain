@@ -1,4 +1,4 @@
-# LETS LEARN LANGCHAIN
+# LET'S LEARN LANGCHAIN
 
 LangChain can be used to build a wide variety of AI applications, including chatbots, personal assistants, creative content generators, data analysis tools, and task automation tools. If you haven't used it before, get ready to revolutionize your AI toolbox! In this first of a series I plan to offer, we'll dive into the magic of creating sophisticated conversational agents by exploring the main components of LangChain: Functions, Expressions Language, Tagging, Extraction, and Routing. Using these components the output of this talk will culminate in not only the creation of a conversational agent but an agent in which you will fully understand the interworkings and come away with the knowledge of how LangChain works and why it should be a critical piece of your future AI projects.
 
