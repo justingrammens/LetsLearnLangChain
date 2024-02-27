@@ -4,7 +4,8 @@ LangChain can be used to build a wide variety of AI applications, including chat
 
 This is meant to be an overview of the LangChain ecosystem with examples using various components, however, in future sessions we'll go deeper into the power and flexibility of LangChain and why as a technical leader you should bring it into your organization.
 
-About the Speaker
+**About the Speaker**
+
 Hi! I’m [Justin Grammens](https://justingrammens.com). I’m a lifelong learner, passionate about Software Development, Artificial Intelligence, and driven by giving back to the community through service and education. 
  
 I'm the Founder and CEO of [Recursive Awesome](https://recursiveawesome.com) a strategic consulting and AI training company where our consultants have helped dozens of companies use Artificial Intelligence to solve their most challenging business problems. I'm also the Founder and CEO of [Lab651](https://lab651.com) where our team guides and supports our customers to achieve successful software product launches. Contact us to learn about our Software Development Done Right framework and top-tier crew.
@@ -13,6 +14,6 @@ Additionally, I am the creator, producer, and host of the [AppliedAI Podcast](ht
  
 Most importantly, I’m blessed to have a loving wife and two amazing boys who are the light of my life and keep me strong and centered. [Let’s connect!](https://justingrammens.com) I would love to help you however I can.
 
-Additional Links:
+**Additional Links:**
 
 * [LangChain (Start here)](https://langchain.com)
